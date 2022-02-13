@@ -3,7 +3,7 @@ description: Create a bug report to help us improve Testsigma
 title: "[Bug]: "
 labels: [bug, needs-triaging]
 assignees:
-- rukmangada
+- anmol-LT
 body:
 - type: markdown
   attributes:
@@ -44,8 +44,8 @@ body:
   attributes:
     label: Version
     options:
-      - Testsigma Cloud
-      - Testsigma Community Edition
-      - Testsigma Enterprise Edition
+      - Test-at-scale Cloud
+      - Test-at-scale Community Edition
+      - Test-at-scale Enterprise Edition
   validations:
     required: true
