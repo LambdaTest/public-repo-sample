@@ -35,7 +35,7 @@ There are many ways in which you can contribute to Test-at-scale.
 
 
 #### ⚙️ Write code to fix a Bug / new Feature Request
-&emsp;&emsp;We welcome contributions that help make Test-at-scale bug-free & improve the test automation experience for our users. You can also find issues tagged [Good First Issues](Pending link here make sure tag in included"good+first+issue"). Check out the below sections to begin.
+&emsp;&emsp;We welcome contributions that help make Test-at-scale bug-free & improve the test automation experience for our users. You can also find issues tagged [Good First Issues](https://github.com/LambdaTest/test-at-scale/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22"). Check out the below sections to begin.
 
 &emsp;
 
@@ -45,26 +45,23 @@ All submissions, including submissions by project members, require review. Befor
  
 ### First-time contributors
 We appreciate first-time contributors and we are happy to assist you in getting started. In case of questions, just [reach out to us!](https://discord.gg/Wyf8srhf6K)
-You find all issues suitable for first-time contributors [here.](Pending link here, remove if none)
+You find all issues suitable for first-time contributors [here.](https://github.com/LambdaTest/test-at-scale/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 
 ### Repo overview
 
-[Test-at-scaleHQ/Test-at-scale](Pending link here) is a mono-repo
+[LambdtaTest/test-at-scale](https://github.com/LambdaTest/test-at-scale/) is a mono-repo
 consisting of 2 components:
 
-1. add here
-2. add here
-
-
-For all contributions, a CLA (Contributor License Agreement) needs to be signed [here](https://cla-assistant.io/Test-at-scalehq/Test-at-scale) before (or after) the pull request has been submitted. A bot will prompt contributors to sign the CLA via a pull request comment, if necessary.
+1. Mayank add here
+2. Mayank add here
 
 
 ### Set up your branch to write code
 
 We use [Github Flow](https://guides.github.com/introduction/flow/index.html), so all code changes happen through pull requests. [Learn more.](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/) 
 
- 1. Please make sure there is an issue associated with the work that you're doing. If it doesn’t exist, [create an issue.](https://github.com/Test-at-scalehq/Test-at-scale/issues/new/choose)
+ 1. Please make sure there is an issue associated with the work that you're doing. If it doesn’t exist, [create an issue.](https://github.com/LambdaTest/test-at-scale/issues)
  2. If you're working on an issue, please comment that you are doing so to prevent duplicate work by others also.
  3. Fork the repo and create a new branch from the `dev` branch.
  4. Please name the branch as <span style="color:grey">issue-[issue-number]-[issue-name(optional)]</span> or <span style="color:grey">feature-[feature-number]–[feature-name(optional)]</span>. For example, if you are fixing Issue #205 name your branch as <span style="color:grey">issue-205 or  issue-205-selectbox-handling-changes</span>
@@ -75,8 +72,7 @@ We use [Github Flow](https://guides.github.com/introduction/flow/index.html), so
 
 ### 🏡  Setup for local development
 
-Refer to [this](https://Test-at-scale.com/docs/contributing/setup-dev-environment/) document to learn how to set up a dev environment.
-
+Refer to [this](https://www.lambdatest.com/support/docs/tas-self-hosted-installation) document to learn how to set up a dev environment.
 &emsp;
 
 ## **Committing code**
@@ -84,17 +80,17 @@ Refer to [this](https://Test-at-scale.com/docs/contributing/setup-dev-environmen
 The repository contains two important (protected) branches.
 
  * main contains the code that is tested and released. 
- * dev  contains recent developments under testing. This branch is set as the default branch, and all pull requests should be made against this branch.
+ * dev contains recent developments under testing. This branch is set as the default branch, and all pull requests should be made against this branch.
 
 Pull requests should be made against the <span style="color:grey">dev</span> branch. <span style="color:grey">staging</span> contains all of the new features and fixes that are under testing and ready to go out in the next release.
 
 
 #### **Commit & Create Pull Requests** 
 
- 1. Please make sure there is an issue associated with the work that you're doing. If it doesn’t exist, [create an issue](https://github.com/Test-at-scalehq/Test-at-scale/issues/new/choose).
+ 1. Please make sure there is an issue associated with the work that you're doing. If it doesn’t exist, [create an issue](https://github.com/LambdaTest/test-at-scale/issues).
  2. Squash your commits and refer to the issue using `Fix #<issue-no>` in the commit message, at the start.
  3. Rebase `dev` with your branch and push your changes.
- 4. Once you are confident in your code changes, create a pull request in your fork to the `dev` branch in the Test-at-scalehq/Test-at-scale base repository.
+ 4. Once you are confident in your code changes, create a pull request in your fork to the `dev` branch in the LambdaTest/test-at-scale base repository.
  5. Link the issue of the base repository in your Pull request description. [Guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
  6. Fill out the [Pull Request Template](./.github/PULL_REQUEST_TEMPLATE.md) completely within the body of the PR. If you feel some areas are not relevant add `N/A` but don’t delete those sections.
 
