@@ -27,11 +27,11 @@ There are many ways in which you can contribute to Test-at-scale.
 &emsp;&emsp;We welcome all feature requests, whether for new features or enhancements to existing features. File your feature request through GitHub Issues.
 
 #### 📝 Improve the documentation
-&emsp;&emsp;Suggest improvements to our documentation using the [Documentation Improvement](Pending link here) template or check out our [Docs Contribution Guide](Pending link here). Test-at-scale docs are published on [here](Pending link here)
+&emsp;&emsp;Suggest improvements to our documentation using the [Documentation Improvement](https://github.com/LambdaTest/test-at-scale/issues/new) template. Test-at-scale docs are published on [here](https://www.lambdatest.com/support/docs/getting-started-with-tas/)
 
 
 #### 📚 Contribute to Tutorials 
-&emsp;&emsp;You can help by suggesting improvements to our tutorials using the [Tutorials Improvement](Pending link here) template or create a new tutorial. 
+&emsp;&emsp;You can help by suggesting improvements to our tutorials using the [Tutorials Improvement](https://github.com/LambdaTest/test-at-scale/issues/new) template or create a new tutorial. 
 
 
 #### ⚙️ Write code to fix a Bug / new Feature Request
